@@ -1,2 +1,0 @@
- Login using Email and password working properly. (Connected to MySQL database)
-	
