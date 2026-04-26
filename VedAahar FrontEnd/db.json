@@ -1,0 +1,22 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "questionText": "How is your body frame?",
+      "options": [
+        { "id": 1, "optionText": "Thin and light body", "doshaType": "VATA" },
+        { "id": 2, "optionText": "Medium and muscular body", "doshaType": "PITTA" },
+        { "id": 3, "optionText": "Heavy and broad body", "doshaType": "KAPHA" }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "How is your digestion?",
+      "options": [
+        { "id": 4, "optionText": "Irregular digestion", "doshaType": "VATA" },
+        { "id": 5, "optionText": "Strong digestion", "doshaType": "PITTA" },
+        { "id": 6, "optionText": "Slow digestion", "doshaType": "KAPHA" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vedaahar-frontend/static/css/main.a52c76ad.css",
+    "main.js": "/vedaahar-frontend/static/js/main.4c996a5e.js",
+    "static/js/453.b908f2c4.chunk.js": "/vedaahar-frontend/static/js/453.b908f2c4.chunk.js",
+    "index.html": "/vedaahar-frontend/index.html",
+    "main.a52c76ad.css.map": "/vedaahar-frontend/static/css/main.a52c76ad.css.map",
+    "main.4c996a5e.js.map": "/vedaahar-frontend/static/js/main.4c996a5e.js.map",
+    "453.b908f2c4.chunk.js.map": "/vedaahar-frontend/static/js/453.b908f2c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a52c76ad.css",
+    "static/js/main.4c996a5e.js"
+  ]
+}
