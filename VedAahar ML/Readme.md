@@ -46,7 +46,7 @@ It processes user inputs such as **Prakriti (body type), Ritu (season), Goal, an
 ## 📂 Project Structure
 
 ```id="mlreal"
-PythonProject/
+Vedaahar ML/
 ├── main.py                # Main execution / API logic
 ├── Train_Model.py        # Model training script
 ├── requirements.txt      # Dependencies
