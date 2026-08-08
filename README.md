@@ -13,6 +13,9 @@ The system integrates:
 to deliver intelligent, culturally-aware, and health-focused recommendations.
 
 ---
+## Demonstration Video
+https://youtu.be/ERgcsApvyMA
+---
 
 ## 🚀 Features
 
