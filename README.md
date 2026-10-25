@@ -13,7 +13,8 @@ The system integrates:
 to deliver intelligent, culturally-aware, and health-focused recommendations.
 
 ---
-## Demonstration Video
+## Demonstration Video and Live Link
+https://vedaahar.vercel.app/  <br><br>
 https://youtu.be/ERgcsApvyMA
 ---
 
